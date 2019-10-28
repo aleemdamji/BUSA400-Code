@@ -13,7 +13,7 @@ import glob
 import pandas as pd
 
 #User Inputs
-newwd = "/Users/home/Dropbox/Social Media and Humanitarian Operations/Aleem & Dixon Deliverables/Scraped Tweets"
+newwd = ""
 os.chdir(newwd)
 extension_name = 'csv'
 output_name = ""
